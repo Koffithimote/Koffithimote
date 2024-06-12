@@ -1,5 +1,5 @@
-- 👋 Hi, je ke suis Koffi Thimoté
-- 👀 je suis intéressé par par le projet
+- 👋 Hi, je suis Koffi Thimoté
+- 👀 je suis intéressé par le projet
 - 🌱 je suis curieux à apprendre le metier del'IA
 - 💞️ je me vois en collaboration avec d'autres personnes efficaces
 - 📫 comment me chercher 
